@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+shap
+joblib
+pandas
+numpy<2
+scikit-learn   # à fixer sur la version utilisée dans Colab, ex. scikit-learn==1.6.1
+streamlit
+requests
+matplotlib
+pyarrow==19.0.1
+xgboost
+kagglehub
+seaborn
